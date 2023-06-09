@@ -1,0 +1,2 @@
+python,filoger,english,programming,2023,101015,8
+sokot1,ahmad,farsi,ravanshenasi,2014,101014,11

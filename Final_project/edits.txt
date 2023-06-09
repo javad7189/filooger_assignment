@@ -1,0 +1,1 @@
+javad,nemat,java,sokot1,101014,(name:sokot=>sokot1)-(author:zarinkob=>ahmad)-(language:english=>farsi)-(field:ejtemae=>ravanshenasi)-(publication_date:2010=>2014)-(unique_ID:101011=>101014)-(number_of_book_in_library:0=>12),2023-06-08
